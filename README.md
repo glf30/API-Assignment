@@ -51,7 +51,7 @@ and make an API request to check the weather in that city.
 
 This can be done using this weather API: https://github.com/robertoduessmann/weather-api
 
-To check the weather in a city, make a GET request to `https://goweather.xyz/weather{city}`,
+To check the weather in a city, make a GET request to `https://goweather.xyz/weather/{city}`,
 substituting `{city}` with the name of the city you want to check the weather in.  To account for cities with a space (New York), use `encodeURI()` on your url.
 
 You'll receive a response object that looks like:
