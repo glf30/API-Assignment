@@ -1,5 +1,4 @@
-# BootstrAPI
-
+# API Assignment
 In this project, we'll be creating two sub-projects that both use Bootstrap and API requests. The first is a random dog generator and the second is weather displaying application.
 
 ## Part 1 - Random Dog Generator
