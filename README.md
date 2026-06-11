@@ -1,19 +1,14 @@
 # API Assignment
-In this project, we'll be creating two sub-projects that both use Bootstrap and API requests. The first is a random dog generator and the second is weather displaying application.
+In this project, we'll be creating two sub-projects where we make API requests. The first is a random dog generator and the second is weather displaying application.
 
 ## Part 1 - Random Dog Generator
 
 In the first part of this assignment, you'll add a button to your webpage that
-when clicked, will cause a random dog image to display. You'll use the Dog API (https://dog.ceo/dog-api/) to get a random dog image URL.
+when clicked, will cause a random dog image to display. You'll use the Dog API from class (https://dog.ceo/dog-api/) to get a random dog image URL. But now, whenever you click the button, the image will change.
 
 #### 1A) Update your HTML
 
 Lets start by creating a `<button>` and an empty `<img>` in the HTML. 
-
-Make the button look like [a nice Bootstrap button](https://getbootstrap.com/docs/5.0/components/buttons/). 
-
-Additionally, put both your button and image in a Bootstrap "card"
-component. Read the Bootstarp documentation to figure out how to do this: https://getbootstrap.com/docs/5.0/components/card/
 
 #### 1B) Handle Button Click
 
@@ -42,7 +37,7 @@ then display the results to the user.
 #### 2A) Update your HTML
 
 Start off by creating a text input and a submit button in the weather app section of your
-HTML. Make these look nice with Bootstrap (https://getbootstrap.com/docs/5.0/forms/overview/).
+HTML. 
 
 #### 2B) Handling Button Click
 
