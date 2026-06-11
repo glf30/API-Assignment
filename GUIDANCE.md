@@ -31,7 +31,6 @@ fetch(URL)
 
 * Create a text input (`<input type="text">`) and a `<button>`
 * Add unique IDs for each element to query them with later
-* Bootstrap them up: https://getbootstrap.com/docs/5.0/forms/overview/
 * Additionally, create three `div` elements that will store the temperature, wind, and description data fetched from the API
 
 ## 2B)
