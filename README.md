@@ -74,6 +74,3 @@ APIs is available here: https://github.com/public-apis/public-apis I'd recommend
 using one that requires no authentication. Be warned: many of them are quite complicated
 to use.
 
-* For each project, put the content returned from the API in a Bootstrap carousel.
-Everytime the user makes a new API request, add a new slide to the carousel. The user
-should be able to look through the carousel to see the results of all their requests.
