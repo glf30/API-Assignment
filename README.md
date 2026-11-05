@@ -4,7 +4,7 @@ In this project, we'll be creating two sub-projects where we make API requests. 
 ## Part 1 - Random Dog Generator
 
 In the first part of this assignment, you'll add a button to your webpage that
-when clicked, will cause a random dog image to display. You'll use the Dog API from class (https://dog.ceo/dog-api/) to get a random dog image URL. But now, whenever you click the button, the image will change.
+when clicked, will cause a random dog image to display. You'll use the Dog API from class (https://dog.ceo/api/breeds/image/random) to get a random dog image URL. But now, whenever you click the button, the image will change.
 
 #### 1A) Update your HTML
 
